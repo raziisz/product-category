@@ -1,0 +1,14 @@
+C:\Users\luiz.libertino\Documents\trabs\projects\ProductCatalogy\bin\Debug\netcoreapp2.1\ProductCatalogy.deps.json
+C:\Users\luiz.libertino\Documents\trabs\projects\ProductCatalogy\bin\Debug\netcoreapp2.1\ProductCatalogy.runtimeconfig.json
+C:\Users\luiz.libertino\Documents\trabs\projects\ProductCatalogy\bin\Debug\netcoreapp2.1\ProductCatalogy.runtimeconfig.dev.json
+C:\Users\luiz.libertino\Documents\trabs\projects\ProductCatalogy\bin\Debug\netcoreapp2.1\ProductCatalogy.dll
+C:\Users\luiz.libertino\Documents\trabs\projects\ProductCatalogy\bin\Debug\netcoreapp2.1\ProductCatalogy.pdb
+C:\Users\luiz.libertino\Documents\trabs\projects\ProductCatalogy\obj\Debug\netcoreapp2.1\ProductCatalogy.csprojAssemblyReference.cache
+C:\Users\luiz.libertino\Documents\trabs\projects\ProductCatalogy\obj\Debug\netcoreapp2.1\ProductCatalogy.csproj.CoreCompileInputs.cache
+C:\Users\luiz.libertino\Documents\trabs\projects\ProductCatalogy\obj\Debug\netcoreapp2.1\ProductCatalogy.RazorAssemblyInfo.cache
+C:\Users\luiz.libertino\Documents\trabs\projects\ProductCatalogy\obj\Debug\netcoreapp2.1\ProductCatalogy.RazorAssemblyInfo.cs
+C:\Users\luiz.libertino\Documents\trabs\projects\ProductCatalogy\obj\Debug\netcoreapp2.1\ProductCatalogy.AssemblyInfoInputs.cache
+C:\Users\luiz.libertino\Documents\trabs\projects\ProductCatalogy\obj\Debug\netcoreapp2.1\ProductCatalogy.AssemblyInfo.cs
+C:\Users\luiz.libertino\Documents\trabs\projects\ProductCatalogy\obj\Debug\netcoreapp2.1\ProductCatalogy.RazorTargetAssemblyInfo.cache
+C:\Users\luiz.libertino\Documents\trabs\projects\ProductCatalogy\obj\Debug\netcoreapp2.1\ProductCatalogy.dll
+C:\Users\luiz.libertino\Documents\trabs\projects\ProductCatalogy\obj\Debug\netcoreapp2.1\ProductCatalogy.pdb
